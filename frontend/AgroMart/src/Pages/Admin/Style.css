@@ -1,0 +1,20 @@
+.mystyle {
+    max-width: auto;
+    margin: 10px auto;
+    padding: 10px 20px;
+    border-radius: 8px;
+    background: rgb(204, 207, 163);
+    min-height: auto;
+    font-size: medium;
+}
+
+.mystyle1 {
+    max-width: 700px;
+    margin: 10px auto;
+    padding: 10px 20px;
+    border-radius: 8px;
+    background: rgb(204, 207, 163);
+    min-height: auto;
+    font-size: medium;
+    align-items: center;
+}

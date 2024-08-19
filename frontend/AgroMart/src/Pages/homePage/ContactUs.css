@@ -1,0 +1,35 @@
+/* ContactUs.css */
+.text-center {
+    text-align: center;
+  }
+  .mt-5 {
+    margin-top: 5rem;
+  }
+  .mt-4 {
+    margin-top: 4rem;
+  }
+  .mt-3 {
+    margin-top: 3rem;
+  }
+  .mt-2 {
+    margin-top: 2rem;
+  }
+  .img-fluid {
+    max-width: 100%;
+    height: auto;
+  }
+  .rounded-circle {
+    border-radius: 50%;
+  }
+  .display-4 {
+    font-size: 2.5rem;
+  }
+  .contactUsBackground {
+    max-width: auto;
+    margin: 10px auto;
+    padding: 10px 20px;
+    border-radius: 8px;
+    background: rgb(204, 207, 163);
+    min-height: 670px;
+    font-size: medium;
+  }
